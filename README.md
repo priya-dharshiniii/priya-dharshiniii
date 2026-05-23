@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dhanisetty Jnana Avinash
+# Unnamatla Sai Priya Dharshini
 
 ### Computer Science Student | Data Science Enthusiast
 
